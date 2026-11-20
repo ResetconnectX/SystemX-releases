@@ -22,6 +22,8 @@
 
 ดาวน์โหลดจากหน้า Releases ของ repo นี้เท่านั้น ถ้าเจอไฟล์ SystemX จากที่อื่น อย่าเปิด
 
+ไฟล์ **Source code (zip / tar.gz)** ท้ายแต่ละ release เป็นไฟล์ที่ GitHub ใส่ให้เองทุก release ข้างในมีแค่ README และภาพหน้าจอของหน้านี้ ไม่ใช่ซอร์สโค้ดหรือตัวโปรแกรม ไม่ต้องดาวน์โหลด
+
 ### อัปเดต
 
 SystemX เช็กเวอร์ชันใหม่จากหน้านี้เอง และบอกให้รู้ในหน้า **ตั้งค่า → เกี่ยวกับ** ตั้งให้ดาวน์โหลดอัตโนมัติ หรือกดอัปเดตเองก็ได้
@@ -94,6 +96,8 @@ SystemX is not code-signed yet, so Windows SmartScreen warns about new apps that
 2. Check that the file is `SystemX-Setup-<version>.exe`, then click **Run anyway**
 
 Only download SystemX from this repository's Releases page. Don't run copies from anywhere else.
+
+The **Source code (zip / tar.gz)** files at the bottom of each release are added by GitHub automatically. They only contain this page's README and screenshots, not SystemX's source code or the app, so you don't need them.
 
 ### Updates
 
