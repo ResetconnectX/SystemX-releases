@@ -69,7 +69,7 @@ Settings ของ Windows → Apps → **SystemX** → Uninstall
 
 ## ไลเซนส์
 
-SystemX เป็นฟรีแวร์ (ไม่เปิดซอร์ส) สร้างต่อจาก [Kudu](https://github.com/AdventDevInc/kudu) (MIT License) และซอฟต์แวร์โอเพนซอร์สอื่นๆ รายการไลเซนส์ทั้งหมดอยู่ในไฟล์ `THIRD_PARTY_NOTICES.txt` ในโฟลเดอร์ที่ติดตั้งโปรแกรม หรือกด **ตั้งค่า → เกี่ยวกับ → ดูไลเซนส์ของซอฟต์แวร์ที่ใช้**
+SystemX เป็นฟรีแวร์ (ไม่เปิดซอร์ส) ที่ใช้ซอฟต์แวร์โอเพนซอร์สหลายตัว รายการไลเซนส์ทั้งหมดอยู่ในไฟล์ `THIRD_PARTY_NOTICES.txt` ในโฟลเดอร์ที่ติดตั้งโปรแกรม หรือกด **ตั้งค่า → เกี่ยวกับ → ดูไลเซนส์ของซอฟต์แวร์ที่ใช้**
 
 ---
 
@@ -144,4 +144,4 @@ Open an [issue](https://github.com/ResetconnectX/SystemX-releases/issues) in thi
 
 ## License
 
-SystemX is freeware (closed source) built on [Kudu](https://github.com/AdventDevInc/kudu) (MIT License) and other open-source software. All licenses are listed in `THIRD_PARTY_NOTICES.txt` in the install folder, or under **Settings → About → Third-party licenses**.
+SystemX is freeware (closed source) that uses open-source software. All licenses are listed in `THIRD_PARTY_NOTICES.txt` in the install folder, or under **Settings → About → Third-party licenses**.
